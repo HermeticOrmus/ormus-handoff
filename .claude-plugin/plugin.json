@@ -1,0 +1,28 @@
+{
+  "name": "ormus-handoff",
+  "version": "1.0.0",
+  "description": "Session state capture for Claude Code. Resume work tomorrow where you left off — even on a different machine.",
+  "author": "Diego Bodart / Ormus.Solutions",
+  "license": "MIT",
+  "homepage": "https://github.com/HermeticOrmus/ormus-handoff",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HermeticOrmus/ormus-handoff.git"
+  },
+  "keywords": [
+    "claude-code",
+    "claude",
+    "anthropic",
+    "ai-agents",
+    "skills",
+    "session-management",
+    "handoff",
+    "ormus"
+  ],
+  "skills": [
+    {
+      "name": "handoff",
+      "path": "SKILL.md"
+    }
+  ]
+}
