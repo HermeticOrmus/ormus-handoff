@@ -69,9 +69,10 @@ The Resume Prompt always uses absolute paths so it works no matter which termina
 
 ## Pairs with
 
-- **[ormus-pickup](https://github.com/HermeticOrmus/ormus-pickup)** *(coming soon)* — the entry ritual. Reads a HANDOFF and restores context. Inverse of /handoff.
+- **[ormus-pickup](https://github.com/HermeticOrmus/ormus-pickup)** — the entry ritual. Reads a HANDOFF and restores context. Inverse of /handoff.
 - **[ormus-absorb](https://github.com/HermeticOrmus/ormus-absorb)** — distill conversation knowledge into persistent memory. /handoff captures *task state*; /absorb captures *understanding*.
 - **[ormus-explore](https://github.com/HermeticOrmus/ormus-explore)** — token-efficient AST-based code search.
+- **[ormus-vibe-proof](https://github.com/HermeticOrmus/ormus-vibe-proof)** — security hardening for vibe-coded full-stack apps.
 - **[ormus-meta-prompting](https://github.com/HermeticOrmus/ormus-meta-prompting)** — categorical foundations for AI prompt engineering.
 
 Together they form the **ormus session lifecycle** — composable Claude Code skills for doing serious work across days, machines, and context resets.
@@ -82,4 +83,4 @@ MIT. See [LICENSE](LICENSE).
 
 ## Origin
 
-Distilled from real multi-day, multi-machine Claude Code sessions across a 5-machine fleet. Every classification path (A/B/C/D) maps to a real failure mode that lost work before this skill existed.
+Distilled from real multi-day, multi-machine Claude Code sessions. Every classification path (A/B/C/D) maps to a real failure mode that lost work before this skill existed.
