@@ -1,3 +1,14 @@
+> **Note (2026-05-23) — Consolidated into LibreSessionFlow**
+>
+> This standalone has been folded into the umbrella repo
+> [LibreSessionFlow-Claude-Code](https://github.com/HermeticOrmus/LibreSessionFlow-Claude-Code),
+> alongside 9 sibling session-lifecycle plugins. The current version of this
+> functionality lives at `plugins/handoff/` in the umbrella.
+>
+> This repo remains live as a landing page. New work happens in the umbrella.
+
+---
+
 # ormus-handoff
 
 > Session state capture for Claude Code. Resume work tomorrow exactly where you left off — even on a different machine.
