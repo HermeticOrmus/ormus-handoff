@@ -9,9 +9,26 @@
 
 ---
 
-# ormus-handoff
+<p align="center">
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="ormus-handoff" width="128" style="image-rendering: pixelated;" />
+</p>
 
-> Session state capture for Claude Code. Resume work tomorrow exactly where you left off — even on a different machine.
+<h1 align="center">ormus-handoff</h1>
+
+<p align="center">
+  <em>Session state capture for Claude Code. Resume tomorrow where you left off — even on a different machine.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HermeticOrmus/ormus-handoff/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/ormus-handoff?style=flat-square&color=aa8142" alt="Stars" /></a>
+  <a href="https://github.com/HermeticOrmus/ormus-handoff/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/ormus-handoff?style=flat-square&color=aa8142" alt="License" /></a>
+  <a href="https://github.com/HermeticOrmus/ormus-handoff/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/ormus-handoff?style=flat-square&color=aa8142" alt="Last Commit" /></a>
+  <img src="https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+---
+
+> **Session state capture for Claude Code. Resume work tomorrow exactly where you left off — even on a different machine.**
 
 A Claude Code skill that writes a complete handoff document at session end so a fresh session can pick up the thread without re-explaining context.
 
